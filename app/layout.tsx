@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'ft_lanches',
-  description: 'Food for Thought: Nutrindo Mentes, Empoderando Futuros!',
+  description: 'ft_lanches | Food for Thought: Nutrindo Mentes, Empoderando Futuros!',
 }
 
 export default function RootLayout({
