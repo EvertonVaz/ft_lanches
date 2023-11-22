@@ -1,5 +1,5 @@
 export default function Page() {
     return (
-	<h1> Vini tes</h1>
+	<h1> Vini teste </h1>
 	)
 }
