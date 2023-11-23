@@ -11,7 +11,7 @@ function Header() {
         </div>
         <div>
           {/* Botão de login */}
-          <a href="/" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Login</a>
+          <a href="/cadetes" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Formulario cadetes</a>
         </div>
       </nav>
     </header>
