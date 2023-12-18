@@ -44,12 +44,14 @@ export default function home() {
             </CardDescription>
           </CardHeader>
           <CardFooter className="flex items-center">
-            <Button className="text-white bg-blue-600 hover:bg-blue-700">Apoie agora</Button>
+            <Link href="https://benfeitoria.com/projeto/ftlanches">
+              <Button className="text-white bg-blue-600 hover:bg-blue-700">Apoie agora</Button>
+            </Link>
           </CardFooter>
         </Card>
       </div>
       <footer className="p-4 bg-[#1e293b] text-center">
-        <Link className="text-blue-600 hover:text-blue-700" href="#">
+        <Link className="text-blue-600 hover:text-blue-700" href="https://42sp.org.br/">
           Quer saber mais sobre a 42 São Paulo?
         </Link>
       </footer>
